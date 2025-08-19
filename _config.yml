@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
+title: "Jennifer Saldana"
+author: "Jennifer Saldana"
+description: "Louisiana State University A&M"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -18,13 +18,14 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", sidebaricon: home}
-  - {file: "README.md", sidebaricon: address-card}
+  - {file: "archive.html", title: /home, sidebaricon: home}
+  - {file: "README.md", title: /about me, sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:jenni.sald04@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/Jennifersaldana"}
+  - {title: Credly, icon: rss, url: "https://www.credly.com/users/jennifermariesaldana"}
+  - {title: Linkedin, icon: rss, url: "https://www.linkedin.com/in/jennifermariesaldana/"} 
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
