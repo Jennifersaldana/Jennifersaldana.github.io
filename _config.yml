@@ -21,6 +21,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "/home.md", title: /home, sidebaricon: address-card}
   - {file: "/about.md", title: /about, sidebaricon: address-card}
   - {file: "/jennifer.pdf", title: /CV, sidebaricon: home}
+  - {file: "blog.md", title: /blog, sidebaricon: address-card}
   
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:jenni.sald04@gmail.com"}
