@@ -20,7 +20,7 @@ show_minimal: false             # remove all clutter, if its false you dont need
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "about.md", title: /about, sidebaricon: address-card}
   - {file: "blog.md", title: /blog, sidebaricon: address-card}
-  - {file: "./JenniferMarieSaldana_s_Resume.pdf", title: /CV, sidebaricon: home}
+  - {url: "./JenniferMarieSaldana_s_Resume.pdf", title: /CV, sidebaricon: home}
   
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:jenni.sald04@gmail.com"}
