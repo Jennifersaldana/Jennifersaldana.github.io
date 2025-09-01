@@ -18,9 +18,9 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", title: "/home", sidebaricon: home}
-  - {file: "archive.html", title: "/blog", sidebaricon: home}
-  - {file: "README.md", title: "/about", sidebaricon: address-card}
+  - {file: "archive.html", title: /home, sidebaricon: home}
+  - {file: "archive.html", title: /blog, sidebaricon: home}
+  - {file: "README.md", title: /about, sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:jenni.sald04@gmail.com"}
