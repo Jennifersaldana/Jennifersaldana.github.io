@@ -1,4 +1,6 @@
 ---
 layout: page
-title: About
+title: Hello! I'm Jennifer!
 ---
+
+I enjoy traveling to amusement parks and theme parks, as well as exploring wildlife. 
