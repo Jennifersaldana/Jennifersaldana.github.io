@@ -25,8 +25,8 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:jenni.sald04@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/Jennifersaldana"}
-  - {title: Credly, icon: rss, url: "https://www.credly.com/users/jennifermariesaldana"}
-  - {title: Linkedin, icon: rss, url: "https://www.linkedin.com/in/jennifermariesaldana/"} 
+  - {title: Credly, icon: credly, url: "https://www.credly.com/users/jennifermariesaldana"}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/jennifermariesaldana/"} 
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
