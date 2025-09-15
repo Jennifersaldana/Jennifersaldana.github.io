@@ -23,7 +23,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {url: "JenniferMarieSaldana_s_Resume.pdf", title: /CV, sidebaricon: home}
   
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:jenni.sald04@gmail.com"}
+  - {title: Mail, icon: envelope, url: "mailto:jennifer.saldana.marie@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/Jennifersaldana"}
   - {title: Credly, file: "/assets/images/Logo.svg", url: "https://www.credly.com/users/jennifermariesaldana"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/jennifermariesaldana/"} 
