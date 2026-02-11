@@ -12,8 +12,13 @@ I'm studying for the CISSP and the CySA+.
 
 ## Certifications
 
-### GIAC Penetration Tester Certification (GPEN).
-![GIAC Penetration Tester Certification (GPEN)]()
+### GIAC Penetration Tester Certification (GPEN)
+![GIAC Penetration Tester Certification (GPEN)](/assets/giac-penetration-tester-gpen.1.png)
+
+### GIAC Advisory Board
+![GIAC Advisory Board](/assets/image.png)
+
+
 
 ### MALWARE AND MEMORY FORENSICS TRAINING WITH VOLATILITY
 
