@@ -9,3 +9,9 @@ I'm a senior at Louisiana State University, where I earned my GIAC Penetration T
 I'm currently looking to get into hardware hacking. 
 
 I'm studying for the CISSP and the CySA+.
+
+## Certifications
+
+### GIAC Penetration Tester (GPEN)
+
+![GIAC GPEN Certification](/assets/638934854866227060.pdf)
