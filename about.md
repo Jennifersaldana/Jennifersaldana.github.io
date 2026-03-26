@@ -1,6 +1,6 @@
 ---
 layout: page
-title: More about me
+title: About me
 ---
 Aside from everything cyber.
 
