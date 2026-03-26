@@ -17,11 +17,11 @@ Security Operations Center (SOC), Threat Detection, Incident Response, Penetrati
 
 ## Featured Projects
 
-### Security Operations Home Lab
+- ### Security Operations Home Lab
 I built a simulated SOC using Splunk and Sysmon to collect and analyze endpoint logs for suspicious activity.
 
-### Threat Detection System
+- ### Threat Detection System
 I developed a Python-based system that analyzes Windows logs to detect brute force attempts and abnormal command execution.
 
-### Penetration Testing – LSU Cyber Clinic
+- ### Penetration Testing – LSU Cyber Clinic
 I conducted security assessments for small businesses and identified vulnerabilities including misconfigurations and insecure services.
