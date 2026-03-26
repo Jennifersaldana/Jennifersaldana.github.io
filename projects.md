@@ -4,7 +4,7 @@ title: Projects
 ---
 
 # 2026
-### Security Operations & Threat Detection Home Lab | Splunk, Sysmon Mar. 2026 - Present
+### Security Operations & Threat Detection Home Lab | Splunk, Sysmon
 I built a simulated SOC environment using SIEM tools to collect and analyze endpoint and network logs. I also implemented log ingestion pipelines (Sysmon, network traffic) to monitor system activity and detect suspicious
 behavior.
 
@@ -12,16 +12,21 @@ behavior.
 ### Threat Detection System | Python, Windows Logs 
 • Designed a Python-based detection system to analyze system logs and identify suspicious behavior patterns, including brute force attempts and abnormal command execution
 
+### Memory Forensics Home Lab | Volatility
+• Performed memory forensics and threat analysis on simulated enterprise incidents involving APT activity and
+malware infections
+• Extracted and correlated indicators of compromise (IOCs) including suspicious processes, network connections, and
+injected code
 
-### Watch Party | React, Supabase Jan. 2026 - Present
+### Watch Party | React, Supabase 
 • Building a live-streaming service where viewers vote in real time on what to watch, helping users avoid endless
 scrolling and decision fatigue.
 
 
-### Orari | React Janurary 2026
+### Orari | React 
 • Building a simiplied calendar for LSU student and anyone else. 
 
-### Bayou Whispers Janurary 2026
+### Bayou Whispers 
 • Building a 2D platformer game on Godot where users learn about Louisiana Culture.
 
 
