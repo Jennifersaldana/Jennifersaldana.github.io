@@ -18,9 +18,11 @@ show_minimal: false             # remove all clutter, if its false you dont need
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "about.md", title: /about, sidebaricon: address-card}
-  - {file: "blog.md", title: /blog, sidebaricon: address-card}
-  - {url: "JenniferMarieSaldana_s_Resume.pdf", title: /CV, sidebaricon: home}
+  - {file: "home.md", title: Home, sidebaricon: address-card}
+  - {file: "about.md", title: About, sidebaricon: address-card}
+  - {file: "projects.md", title: Projects, sidebaricon: address-card}
+  - {file: "blog.md", title: Blog, sidebaricon: address-card}
+  - {url: "JenniferMarieSaldana_s_Resume.pdf", title: CV, sidebaricon: home}
   
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:jennifer.saldana.marie@gmail.com"}
