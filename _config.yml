@@ -22,7 +22,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "about.md", title: About, sidebaricon: address-card}
   - {file: "projects.md", title: Projects, sidebaricon: address-card}
   - {file: "blog.md", title: Blog, sidebaricon: address-card}
-  - {url: "JenniferMarieSaldana_Cybersecurity_Resume (1).pdf", title: CV, sidebaricon: home}
+  - {url: "JenniferMarieSaldana_Cybersecurity_Resume.pdf", title: CV, sidebaricon: home}
   
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:jennifer.saldana.marie@gmail.com"}
