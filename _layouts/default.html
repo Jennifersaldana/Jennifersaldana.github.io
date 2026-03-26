@@ -1,50 +1,8 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang }}">
-
-{% include head.html %}
-
-<body>
-
-<button id="theme-toggle">🌙 Dark</button>
-
-<header class="hover smooth">
-  {% unless site.show_minimal and site.navigation and site.external %}
-    <h1 {% if site.navigation and site.external %}class="full"{% endif %}>
-      <a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-    </h1>
-  {% endunless %}
-  {% include menu.html menu=site.navigation %}
-  {% include menu.html menu=site.external %}
-</header>
-
-{{ content }}
-
-{%- if site.footer -%}
-<footer class="hover">
-  <div>{{ site.description }}</div>
-  {% include menu.html menu=site.footer %}
-</footer>
-{%- endif -%}
-
-<script>
-const toggle = document.getElementById("theme-toggle");
-
-if (localStorage.getItem("theme") === "light") {
-  document.body.classList.add("light-mode");
-}
-
-toggle.onclick = () => {
-  document.body.classList.toggle("light-mode");
-
-  if (document.body.classList.contains("light-mode")) {
-    localStorage.setItem("theme", "light");
-    toggle.textContent = "🌙";
-  } else {
-    localStorage.setItem("theme", "dark");
-    toggle.textContent = "☀️";
-  }
-};
-</script>
-
-</body>
-</html>
+<!DOCTYPE html> 
+<html lang="{{ page.lang | default: site.lang }}"> {% include head.html %} 
+  <header class="hover smooth"> {% unless site.show_minimal and site.navigation and site.external %} 
+    <h1 {% if site.navigation and site.external %}class="full"{% endif %}><a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></h1> {% endunless %} {% include menu.html menu=site.navigation %} {% include menu.html menu=site.external %} 
+  </header> {{ content }} {%- if site.footer -%} 
+  <footer class="hover"> <div>{{ site.description }}
+  </div> {% include menu.html menu=site.footer %} 
+  </footer> {%- endif -%} </html>
